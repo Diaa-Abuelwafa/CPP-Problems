@@ -1,0 +1,13 @@
+1 ==> #include <iostream>
+2 ==> std;
+5 ==> outside main function
+8 ==> main
+11 ==> ;
+12 ==> tomorrow without ""
+13 ==> dont use < use \<
+14 ==> endl 
+15 ==> """" use ""
+16 ==> <<
+18 ==> cout 
+20 ==> <<
+21 ==> }
